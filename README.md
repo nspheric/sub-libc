@@ -2,7 +2,7 @@
 I would like to improve my fundamentals of low level programming so
 i can contribute to production libcs such as llvm libc.
 
-I would like to implement the math functions from `crlibc` and some c23 math functions.
+I would like to implement the math functions from `crlibm` and some c23 math functions.
 
 some of the algorithms are simple but production systems such as llvm libm
 have requirements such as performance and rounding to all modes so the
