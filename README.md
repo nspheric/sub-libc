@@ -11,8 +11,7 @@ reasons.
 
 for example, the handbook of floating point math functions introduce
 `sin` with a range reduction algorithm that leads to 4 branches which in a production
-system if you care about performance you cant have so many branches if you
-want to have good throughput
+system if you care about performance/throughput is not acceptable.
 
 and most double precision math functions are implemented with double double
 arithmetic.
